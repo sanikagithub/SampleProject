@@ -1,6 +1,6 @@
 # sample project
 
-## Barker wuz here
+## Hey Barker!
 
 ### GitBash password are stupid
 
